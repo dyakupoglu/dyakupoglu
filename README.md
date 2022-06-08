@@ -1,11 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Doğukan Yakupoğlu</h1>
-<h3 align="center">A new passionate frontend developer.</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">, I'm Doğukan Yakupoğlu</h1>
 
 <strong>About Me:</strong><br>
 - 💻 I’m currently working on some ReactJS Projects<br>
-- 📚 I’m graduated from Çankaya University in Turkey<br>
 - 📈 I experienced in HTML, CSS, JavaScript, ReactJS.<br>
-- 📖 I'm currently learning React.js and Node.js.<br>
 - 💬 Ask me about **anything related on React.js & JavaScript**
 
 📫 Reach me at <a href="mailto:akcaymert603@gmail.com">dogukan.yakupoglu@gmail.com</a><br>
@@ -13,9 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dogukan-yakupoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogukan-yakupoglu" height="30" width="40" /></a>
-<a href="https://instagram.com/dogukan.yakupoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dogukan.yakupoglu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nighttknightt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nighttknightt" height="30" width="40" /></a>
-<a href="https://discord.gg/#2457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2457" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
