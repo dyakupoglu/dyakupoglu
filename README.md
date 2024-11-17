@@ -11,5 +11,5 @@ I'm a software developer specializing in full-stack web development. I'm passion
 
 ## 📫 Get in Touch
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/dogukan-bekir-yakupoglu/))
+- [LinkedIn](https://www.linkedin.com/in/dogukan-bekir-yakupoglu/)
 - [Email](mailto:dogukan.yakupoglu@gmail.com)
